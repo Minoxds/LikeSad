@@ -24,12 +24,12 @@ import PhotoCard from "./components/PhotoCard.vue";
     <div class="album py-5 bg-light">
       <div class="container">
         <div class="row">
-          <PhotoCard image="/Photo/IMG_20220520_125525 (1).jpg" />
-          <PhotoCard image="/Photo/temple.jpg" />
-          <PhotoCard image="/Photo/mess.jpg" />
-          <PhotoCard image="/Photo/evening.jpg" />
-          <PhotoCard image="/Photo/moon.jpg" />
-          <PhotoCard image="/Photo/train.jpg" />
+          <PhotoCard image="/img/1.jpg"  alt="" />
+          <PhotoCard image="/img/2.jpg"  alt="" />
+          <PhotoCard image="/img/3.jpg"  alt="" />
+          <PhotoCard image="/img/4.jpg"  alt="" />
+          <PhotoCard image="/img/5.jpg"  alt="" />
+          <PhotoCard image="/img/6.jpg"  alt="" />
         </div>
       </div>
     </div>
